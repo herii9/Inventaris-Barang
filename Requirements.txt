@@ -1,0 +1,5 @@
+- Laravel 11
+- PHP 8.2.12 or New
+- XAMPP 8.2.12
+- Bootstrap 5
+- composer v2.8.5
